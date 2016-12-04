@@ -4217,6 +4217,10 @@ Speaker Age,Speaker Gender,Listener 1 Age,Listener 1 Gender,Content Word,Theme/T
 40,male,40,male,revenue,Business,0
 40,male,40,male,training,Business,0
 40,male,40,male,business,Business,0
+<<<<<<< HEAD
+40,male,40,male,resume,Business,0
+=======
+>>>>>>> 1b410389d1a6bde90503111f0eb904df3edce11d
 40,male,40,male,experience,Business,0
 40,male,40,male,project,Business,0
 40,male,40,male,interview,Business,0
@@ -4719,7 +4723,10 @@ Speaker Age,Speaker Gender,Listener 1 Age,Listener 1 Gender,Content Word,Theme/T
 40,male,40,male,luggage,Travel,0
 35,female,30,male,success,Website design,0
 35,female,30,male,permissions,Website design,0
+<<<<<<< HEAD
 35,female,30,male,let's,Website design,0
+=======
+>>>>>>> 1b410389d1a6bde90503111f0eb904df3edce11d
 35,female,30,male,see,Website design,0
 35,female,30,male,look,Website design,0
 35,female,30,male,beginning,Website design,0
@@ -8550,7 +8557,10 @@ Speaker Age,Speaker Gender,Listener 1 Age,Listener 1 Gender,Content Word,Theme/T
 60,female,55,female,dinner,"Holiday, politics, family life",1
 60,female,55,female,job,"Holiday, politics, family life",1
 60,female,55,female,Stanford,"Holiday, politics, family life",1
+<<<<<<< HEAD
 60,female,55,female,resume,"Holiday, politics, family life",1
+=======
+>>>>>>> 1b410389d1a6bde90503111f0eb904df3edce11d
 60,female,55,female,Gates,"Holiday, politics, family life",1
 60,female,55,female,money,"Holiday, politics, family life",1
 60,female,55,female,message,"Holiday, politics, family life",1
@@ -11272,7 +11282,10 @@ Speaker Age,Speaker Gender,Listener 1 Age,Listener 1 Gender,Content Word,Theme/T
 30,male,30,male,Entreupnuerial,Work cultures,0
 30,male,30,male,Co-founder,Work cultures,0
 30,male,30,male,Houston,Work cultures,0
+<<<<<<< HEAD
 30,male,30,male,love,Work cultures,0
+=======
+>>>>>>> 1b410389d1a6bde90503111f0eb904df3edce11d
 30,male,30,male,Ambitious,Work cultures,0
 30,male,30,male,Seattle,Work cultures,0
 30,male,30,male,Software,Work cultures,0
@@ -12997,16 +13010,16 @@ Speaker Age,Speaker Gender,Listener 1 Age,Listener 1 Gender,Content Word,Theme/T
 7,male,40,male,want,child doesn't want to do his homework,0
 32,male,26,female,property,costs of condos and homes,0
 35,male,55,female,dating,critique-ing each others dating profiles,0
-25,female,30,male,work,CS coding meetup,0
-25,female,30,male,html,CS coding meetup,0
-25,female,30,male,crash,CS coding meetup,0
-25,female,30,male,team,CS coding meetup,0
-25,female,30,male,rails,CS coding meetup,0
-25,female,30,male,bootstrap,CS coding meetup,0
-25,female,30,male,progress,CS coding meetup,0
-25,female,30,male,sublime,CS coding meetup,0
-25,female,30,male,refresh,CS coding meetup,0
-25,female,30,male,aesthetic,CS coding meetup,0
+mid 20,female,30,male,work,CS coding meetup,0
+mid 20,female,30,male,html,CS coding meetup,0
+mid 20,female,30,male,crash,CS coding meetup,0
+mid 20,female,30,male,team,CS coding meetup,0
+mid 20,female,30,male,rails,CS coding meetup,0
+mid 20,female,30,male,bootstrap,CS coding meetup,0
+mid 20,female,30,male,progress,CS coding meetup,0
+mid 20,female,30,male,sublime,CS coding meetup,0
+mid 20,female,30,male,refresh,CS coding meetup,0
+mid 20,female,30,male,aesthetic,CS coding meetup,0
 25,female,40,female,vocab,"different uses of the word ""thin"", learning new words",0
 35,female,30,female,school,family,1
 35,male,55,female,hotels,fancy hotels for vacations,0
